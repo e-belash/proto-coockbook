@@ -5,3 +5,11 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - siphon.catalog           
+  - matplotlib.pyplot                 
+  - numpy                               
+  - pandas
+  - xarray
+  - cartopy.crs                       
+  - cartopy.feature               
+  - datetime

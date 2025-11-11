@@ -16,6 +16,12 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+    - title:
+      children:
+        - file:  HW3.ipynb
+    - title: Atmospheric River Intensity Trends
+      children:
+        - file: South California
   jupyter:
       binder:
         repo: projectpythia/cookbook-template

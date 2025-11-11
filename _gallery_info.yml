@@ -1,6 +1,31 @@
-thumbnail: thumbnail.png
+AR_landfall.png: AR_landfall.png
 tags:
   domains:
-    - sampledomain
+    - Atmospheric Rivers
   packages:
-    - samplepackage
+    - cartopy.crs
+    - cartopy.feature
+    - matplotlib.pyplot
+    - cartopy.crs
+
+AR number.png: AR number.png
+tags:
+  domains:
+    - Atmospheric Rivers
+  packages:
+    - cartopy.crs
+    - cartopy.feature
+    - matplotlib.pyplot
+    - cartopy.crs
+
+AR Intensity-Duration: AR Intensity-Duration.png
+tags:
+  domains:
+    - Atmospheric Rivers
+  packages:
+    - cartopy.crs
+    - cartopy.feature
+    - matplotlib.pyplot
+    - cartopy.crs
+
+    

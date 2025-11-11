@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Katya's Prototype Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -6,17 +6,17 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-_See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+
+This Cookbook covers practical workflows for identifying atmospheric river (AR) landfall events, extracting key physical parameters (including IVT, landfall coordinates, and event duration), classifying AR intensity using the AR1–AR5 scale, and visualizing landfall locations and characteristics using geospatial plotting tools. It analyzes PIKART Lagrangian AR data across multiple years.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+By completing this cookbook, you will gain experience with accessing remote datasets through THREDDS/OPeNDAP, filtering AR tracks based on physical criteria, computing intensity-duration classifications, and generating geospatial visualizations using Python, xarray, and Cartopy. Also, understand and utilize Lagrangian type dataset.
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Ekaterina Belash](https://github.com/e-belash), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
 
 ### Contributors
 
